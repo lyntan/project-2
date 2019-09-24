@@ -1,0 +1,25 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "project 2 by the best group",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "msql": "^1.0.3",
+    "sequelize": "^5.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxtzhou/project-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fxtzhou/project-2/issues"
+  },
+  "homepage": "https://github.com/fxtzhou/project-2#readme"
+}
